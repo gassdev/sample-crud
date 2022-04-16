@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "3abef033-5fba-46a7-a65f-41eb7e055a6f",
+      "title": "First Post",
+      "content": "My First Post Content"
+    },
+    {
+      "id": "f303f309-c4be-4bed-a75a-e35035e46514",
+      "title": "Third Post Updated",
+      "content": "My Third Post"
+    },
+    {
+      "id": "02898efc-6caf-4a68-90b7-78c40e3e6a63",
+      "title": "Fourth Post Updated",
+      "content": "This is My Fourth Post Content"
+    }
+  ]
+}
